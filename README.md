@@ -19,7 +19,7 @@ This is a simple Java console-based Quiz Application that allows users to answer
 
 1. Clone the repository
 2. Open in any Java IDE (IntelliJ, Eclipse, VS Code)
-3. Run the `QuizApplication.java` file
+3. Run the `QuizGame.java` file
 
 ## Sample Output
 - User gets 5 seconds to answer each question
